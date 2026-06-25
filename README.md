@@ -23,6 +23,7 @@ It demonstrates real-world data analytics workflows — from database setup and 
 ---
 
 ## 📂 Folder Structure
+"""
 sql-data-analytics-portfolio/
 │
 ├── datasets/
@@ -53,9 +54,7 @@ sql-data-analytics-portfolio/
 │ └── 13_report_products.sql
 │
 └── README.md
-
-yaml
-Copy code
+"""
 
 ---
 
