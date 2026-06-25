@@ -24,34 +24,34 @@ It demonstrates real-world data analytics workflows — from database setup and 
 
 ## 📂 Folder Structure
 """
-  sql-data-analytics-portfolio/
+sql-data-analytics-portfolio/
   │
   ├── datasets/
-  │ └── csv-files/
-  │ ├── gold.dim_customers.csv
-  │ ├── gold.dim_products.csv
-  │ ├── gold.fact_sales.csv
-  │ ├── gold.report_customers.csv
-  │ └── gold.report_products.csv
+    │ └── csv-files/
+    │ ├── gold.dim_customers.csv
+    │ ├── gold.dim_products.csv
+    │ ├── gold.fact_sales.csv
+    │ ├── gold.report_customers.csv
+    │ └── gold.report_products.csv
   │
   ├── docs/
-  │ └── Project Roadmap.png
+    │ └── Project Roadmap.png
   │
   ├── scripts/
-  │ ├── 0_init_database.sql
-  │ ├── 1_database_exploration.sql
-  │ ├── 2_dimensions_exploration.sql
-  │ ├── 3_date_range_exploration.sql
-  │ ├── 4_measures_exploration.sql
-  │ ├── 5_magnitude_analysis.sql
-  │ ├── 6_ranking_analysis.sql
-  │ ├── 7_change_over_time_analysis.sql
-  │ ├── 8_cumulative_analysis.sql
-  │ ├── 9_performance_analysis.sql
-  │ ├── 10_data_segmentation.sql
-  │ ├── 11_part_to_whole_analysis.sql
-  │ ├── 12_report_customers.sql
-  │ └── 13_report_products.sql
+    │ ├── 0_init_database.sql
+    │ ├── 1_database_exploration.sql
+    │ ├── 2_dimensions_exploration.sql
+    │ ├── 3_date_range_exploration.sql
+    │ ├── 4_measures_exploration.sql
+    │ ├── 5_magnitude_analysis.sql
+    │ ├── 6_ranking_analysis.sql
+    │ ├── 7_change_over_time_analysis.sql
+    │ ├── 8_cumulative_analysis.sql
+    │ ├── 9_performance_analysis.sql
+    │ ├── 10_data_segmentation.sql
+    │ ├── 11_part_to_whole_analysis.sql
+    │ ├── 12_report_customers.sql
+    │ └── 13_report_products.sql
   │
   └── README.md
 """
